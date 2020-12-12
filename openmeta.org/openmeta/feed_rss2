@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rss [
+	<!ENTITY % HTMLlat1 PUBLIC
+  	"-//W3C//ENTITIES Latin 1 for XHTML//EN"
+	  "http://www.w3.org/TR/xhtml1/DTD/xhtml-lat1.ent">
+	%HTMLlat1;
+
+	<!ENTITY % HTMLspecial PUBLIC
+  	"-//W3C//ENTITIES Special for XHTML//EN"
+	  "http://www.w3.org/TR/xhtml1/DTD/xhtml-special.ent">
+	%HTMLspecial;
+	
+	<!ENTITY % HTMLsymbol PUBLIC
+  	"-//W3C//ENTITIES Symbols for XHTML//EN"
+	  "http://www.w3.org/TR/xhtml1/DTD/xhtml-symbol.ent">
+	%HTMLsymbol;
+]>
+
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+	<title>OpenMeta</title>
+	<description>Проект OpenMeta по созданию Третьего кода НЛП.</description>
+	<language>ru</language>
+	<link>http://openmeta.org</link> 
+	<copyright>Copyright 2020 OpenMeta</copyright>
+	
+		<managingEditor>ailev@asmp.msk.su</managingEditor>
+	
+		<managingEditor>anavit@list.ru</managingEditor>
+	
+		<managingEditor>samadhi@mailgate.ru</managingEditor>
+	
+		<managingEditor>wake@yessoftware.com</managingEditor>
+	
+		<managingEditor>topeshko@ngs.ru</managingEditor>
+	
+	
+	<pubDate/>
+	<lastBuildDate/>
+	
+	
+		<item>  
+			<title>Файл "Временные дыры"</title>
+			<link>http://openmeta.org/64942</link>
+			
+				<description>Многие руководители признают эту ситуацию типичной: менеджеры по продажам, казалось бы, загружены, а результат нулевой. При этом объяснить происходящее персонал не в состоянии. Руководство компании &laquo;Айтек&raquo;, столкнувшись с этой проблемой, решило все же найти ответ на вопрос, куда уходит рабочее время.</description>
+			
+			
+				<author>anavit@list.ru</author>
+			
+			
+			<pubDate/>
+			<guid>64942</guid>
+		</item>
+	
+		<item>  
+			<title>Текст "Новокодовые среды в новом учебном году."</title>
+			<link>http://openmeta.org/53410</link>
+			
+				<description>Занятия возобновляются 14 сентября. Подробности: http://www.mcnlp.ru/index.php?section=articles&amp;id=888  Про образовательный ценз - ошибка, игнорируйте пожалуйста.</description>
+			
+			
+			
+			<pubDate/>
+			<guid>53410</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "Анкета по семинару &quot;Заговор во имя совершенства&quot;"</title>
+			<link>http://openmeta.org/40241</link>
+			
+				<description>Файл в формате Microsoft Word с вопросами к участникам семинара &quot;Новый Код НЛП: Заговор во имя совершенства&quot;. Если вы прошли семинар, пожалуйста, через 2-3 недели заполните эту анкету и перешлите ее по адресу thecroaker-at-gmail.com. Нам очень интересно, что вы думаете.</description>
+			
+			
+			
+			<pubDate/>
+			<guid>40241</guid>
+		</item>
+	
+		<item>  
+			<title>Текст "Обратная связь по пилотному семинару &quot;Новый Код НЛП: Заговор во имя совершенства&quot;."</title>
+			<link>http://openmeta.org/40183</link>
+			
+				<description>По результатам анкетирования после семинара. Информация предоставлена Московским Центром НЛП.</description>
+			
+			
+			
+			<pubDate/>
+			<guid>40183</guid>
+		</item>
+	
+		<item>  
+			<title>Текст "Пост-тренинг по пилотному проекту."</title>
+			<link>http://openmeta.org/39703</link>
+			
+				<description>26 апреля в 19:00 в МЦ НЛП (ул. Новорязанская 26) состоится пост-тренинг к пилотному проекту &quot;Заговор во имя совершенства&quot;. Пожалуйста, известите об этом ваших друзей и знакомых, участвовавших в тренинге 9-10 апреля. Только для прошедших тренинг, участие бесплатное.</description>
+			
+			
+			
+			<pubDate/>
+			<guid>39703</guid>
+		</item>
+	
+		<item>  
+			<title>Текст "Инструкции для игры в &quot;Алфавит&quot;"</title>
+			<link>http://openmeta.org/39630</link>
+			
+				<description>Подробные пошаговые инструкции для компьютерного &quot;Алфавита&quot;.</description>
+			
+			
+			
+			<pubDate/>
+			<guid>39630</guid>
+		</item>
+	
+		<item>  
+			<title>Файл "Flash-версия игры &quot;Алфавит&quot;"</title>
+			<link>http://openmeta.org/39615</link>
+			
+				<description>Версия &quot;Алфавита&quot;, написанная на Flash жж-юзером hizhina. Русский и английский набор букв, изменяемый размер шрифта, изменяемый цвет букв. Удобно. Исходные коды (для Macromdeia Flash MX 2004) http://max.bizsectors.com/files/alphabet_src.zip</description>
+			
+			
+			
+			<pubDate/>
+			<guid>39615</guid>
+		</item>
+	
+		<item>  
+			<title>Текст "Семинар Джона Гриндера в Москве (2004) - фрагмент."</title>
+			<link>http://openmeta.org/39508</link>
+			
+				<description>Транскрипт небольшой части семинара, посвященной вопросам сознательно-бессознательного интерфейса.</description>
+			
+			
+			
+			<pubDate/>
+			<guid>39508</guid>
+		</item>
+	
+		<item>  
+			<title>Текст "Пилотный семинар проекта Неокод: 9-10 апреля."</title>
+			<link>http://openmeta.org/37231</link>
+			
+				<description>Первый семинар, подготовленный в Лаборатории для МЦ НЛП (http://www.mcnlp.ru/index.php?section=sched&amp;focus=488&amp;pane=1), &quot;Новый Код НЛП: Заговор во имя совершенства&quot;</description>
+			
+			
+			
+			<pubDate/>
+			<guid>37231</guid>
+		</item>
+	
+		<item>  
+			<title>Текст "Способы поддержания высокоэффективного состояния"</title>
+			<link>http://openmeta.org/37092</link>
+			
+				<description>Описание способов запуска, поддержания и углубления высокоэффективного состояни (high performance state).</description>
+			
+			
+			
+			<pubDate/>
+			<guid>37092</guid>
+		</item>
+	  
+</channel>
+</rss>
+
+
+

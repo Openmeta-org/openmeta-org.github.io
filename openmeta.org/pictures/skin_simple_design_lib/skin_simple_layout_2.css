@@ -1,0 +1,141 @@
+/* commin */
+
+body {
+	min-width: 640px;
+}
+div.block {
+	overflow: hidden;
+	display: inline-block;
+	float: left;
+}
+
+/* positions */
+
+#content {
+	float: right;
+}
+#addons {
+	float: left;
+}
+/* ie fix */
+* html #content {
+	display: inline;
+}
+
+/* sizes */
+
+#logo {
+	width: 20%;
+}
+#service {
+	width: 60%;
+}
+#registration {
+	width: 19.9%;
+}
+#menu {
+	width: 100%;
+}
+#menu h2 {
+	display: none;
+}
+#content {
+	width: 80%;
+}
+#contentNoAdds {
+	width: 100%;
+}
+#contentFull	{
+	width: 100%;
+}
+#addons {
+	width: 20%;
+}
+#buttons {
+	width: 20%;
+}
+#copyright {
+	width: 80%;
+}
+#menu .blockContent {
+	width: 100%;
+}
+
+/* style fixes */
+
+#menu {
+	padding-bottom: 0 !important;
+	margin-bottom: 0 !important;
+	overflow: visible;
+}
+#menu .blockContent {
+	padding: 0 !important;
+	margin-bottom: 0 !important;
+}
+#rubricator ul {
+	list-style: none;
+	display: block;
+	float: left;
+	position: relative;
+	width: 100%;
+}
+#rubricator li {
+	display: block;
+	float: left;
+}
+#rubricator ul {
+	padding: 0;
+	margin: 0;
+}
+#rubricator li {
+	margin: 0;
+	padding: 0;
+}
+/* ie fix */
+* html #rubricator ul {
+	margin: 0;
+}
+#rubricator li a, #rubricator li span {
+	display: block;
+	font-size: 16px;
+	padding: 5px 10px;
+	text-align: center;
+	border: 0;
+	border-right: 1px solid #ffffff;
+}
+
+/* Menu easy clearing */
+
+#menu .blockContent:after, #menu ul:after {
+  content: '[DO NOT LEAVE IT IS NOT REAL]';
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+#menu .blockContent, #menu ul {
+	display: inline-block;
+}
+/*\*/
+#menu .blockContent, #menu ul {
+	display: block;
+}
+
+#siteMenu {
+	position: absolute;
+	z-index: 1000;
+	bottom: 0;
+	width: 60%;
+}
+/* hack for Opera 7+ */
+@media all and (min-width: 0px){
+	#siteMenu {
+		width: 100% !important;
+	}
+}
+/* hack for IEs of all persuasions before IE7 */
+* html #siteMenu	{
+	width: 100% !important;
+}
+
+
